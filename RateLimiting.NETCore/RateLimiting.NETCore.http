@@ -1,0 +1,6 @@
+@RateLimiting.NETCore_HostAddress = http://localhost:5136
+
+GET {{RateLimiting.NETCore_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

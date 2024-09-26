@@ -1,0 +1,13 @@
+bin/  
+obj/  
+*.user  
+*.rsuser  
+*.suo  
+*.pdb  
+*.cache  
+*.log  
+.vs/  
+.vscode/  
+*.csproj.user  
+*.config  
+Migrations/ 
